@@ -3,7 +3,7 @@
     "name": "Open In Iodide",
     "description": "Right click on a csv or on a page that loaded a csv and find the menu item.",
     "version": "0.1",
-    "homepage_url": "",
+    "homepage_url": "https://github.com/hamilton/Open-CSV-in-Iodide",
 
     "background": {
         "scripts": [

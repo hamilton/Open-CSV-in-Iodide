@@ -2,6 +2,8 @@
 
 __proof of concept, y'all__
 
+![check-this-out](https://user-images.githubusercontent.com/95735/42014821-38b7ae58-7a59-11e8-8329-843b3783923a.gif)
+
 Right click on a csv or on a page that loaded a csv and find the menu item.
 
 [Download the xpi here](https://github.com/hamilton/Open-CSV-in-Iodide/raw/master/web-ext-artifacts/open_in_iodide-0.1-an%2Bfx.xpi). It's probably going to change a bit. For now, I've opted for the least-good version of it.

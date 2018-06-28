@@ -1,6 +1,6 @@
 # Open CSV in Iodide 🤠
 
-__proof of concept, y'all__
+<div align="center" style="width:100%; text-align:center">proof of concept, y'all</div>
 
 ![check-this-out](https://user-images.githubusercontent.com/95735/42014821-38b7ae58-7a59-11e8-8329-843b3783923a.gif)
 

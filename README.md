@@ -1,4 +1,4 @@
-# Open CSV in Iodide 🤠
+<h1 style="width:100%; text-align:center">Open CSV in Iodide 🤠</h1>
 
 <div align="center" style="width:100%; text-align:center">proof of concept, y'all</div>
 

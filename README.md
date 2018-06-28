@@ -1,6 +1,8 @@
 <h1  align="center" >Open CSV in Iodide 🤠</h1>
 
-<div align="center" style="width:100%; text-align:center">proof of concept, y'all</div>
+<h2 align="center" style="width:100%; text-align:center"><a href='https://github.com/hamilton/Open-CSV-in-Iodide/raw/master/web-ext-artifacts/open_in_iodide-0.1-an%2Bfx.xpi'>Download the xpi here</a></h2>
+
+---
 
 ![check-this-out](https://user-images.githubusercontent.com/95735/42014821-38b7ae58-7a59-11e8-8329-843b3783923a.gif)
 
